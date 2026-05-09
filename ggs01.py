@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ================= CONFIGURATION =================
-TOKEN = "8697290019:AAFxzZellh-wHLvV2N1QSNiCOcW7aWV7kAY"
+TOKEN = "8734187035:AAG2mwca0ClYrpw-sazSPWlay_-VJdmSaoA"
 ADMIN_IDS = [8652607385, 6926889481]
 
 OXAPAY_ENABLED = True
